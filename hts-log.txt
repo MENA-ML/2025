@@ -1,34 +1,66 @@
-HTTrack3.49-2+libhtsjava.so.2 launched on Tue, 27 Aug 2024 14:34:19 at http://https://sezaiakman75.wordpress.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
-(webhttrack -q -%i -iC2 http://https://sezaiakman75.wordpress.com/ -O "/home/igli/Desktop/winterschool/crawl_wp" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+HTTrack3.49-2+libhtsjava.so.2 launched on Mon, 16 Sep 2024 19:48:14 at https://sezaiakman75.wordpress.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://sezaiakman75.wordpress.com/ -O "/home/igli/Desktop/menaml" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-14:34:38	Warning: 	Moved Permanently for s1.wp.com/
-14:34:38	Warning: 	File has moved from s1.wp.com/ to https://wordpress.com
-14:34:39	Warning: 	Moved Permanently for s2.wp.com/
-14:34:39	Warning: 	File has moved from s2.wp.com/ to https://wordpress.com
-14:34:40	Warning: 	Moved Permanently for s0.wp.com/
-14:34:40	Warning: 	File has moved from s0.wp.com/ to https://wordpress.com
-14:34:41	Warning: 	Moved Permanently for https://sezaiakman75.wordpress.com/?page_id=6
-14:34:41	Warning: 	File has moved from https://sezaiakman75.wordpress.com/?page_id=6 to https://sezaiakman75.wordpress.com/program/
-14:34:41	Warning: 	Moved Permanently for https://sezaiakman75.wordpress.com/?page_id=7
-14:34:41	Warning: 	File has moved from https://sezaiakman75.wordpress.com/?page_id=7 to https://sezaiakman75.wordpress.com/venue/
-14:34:41	Warning: 	Moved Permanently for https://sezaiakman75.wordpress.com/?page_id=155
-14:34:41	Warning: 	File has moved from https://sezaiakman75.wordpress.com/?page_id=155 to https://sezaiakman75.wordpress.com/sponsors/
-14:35:02	Warning: 	Moved Permanently for wordpress.com/robots.txt
-14:35:02	Warning: 	Redirected link is identical because of 'URL Hack' option: wordpress.com/robots.txt and https://wordpress.com/robots.txt
-14:35:02	Warning: 	Warning moved treated for wordpress.com/robots.txt (real one is https://wordpress.com/robots.txt)
-14:35:02	Warning: 	Moved Permanently for wordpress.com/
-14:35:02	Warning: 	Redirected link is identical because of 'URL Hack' option: wordpress.com/ and https://wordpress.com/
-14:35:02	Warning: 	File has moved from wordpress.com/ to https://wordpress.com/
-14:35:04	Warning: 	Note: due to https://public-api.wordpress.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
-14:37:19	Warning: 	Unexpected 412/416 error (Precondition Failed) for https://s2.wp.com/i/logo/wpcom-gray-white.png, '/home/igli/Desktop/winterschool/crawl_wp/s2.wp.com/i/logo/wpcom-gray-white.html' could not be found on disk
-14:37:43	Warning: 	Moved Permanently for wordpress.com/
-14:37:43	Warning: 	Redirected link is identical because of 'URL Hack' option: wordpress.com/ and https://wordpress.com/
-14:37:43	Warning: 	File has moved from wordpress.com/ to https://wordpress.com/
+19:48:46	Warning: 	Moved Permanently for s1.wp.com/
+19:48:46	Warning: 	File has moved from s1.wp.com/ to https://wordpress.com
+19:48:47	Warning: 	Moved Permanently for s2.wp.com/
+19:48:47	Warning: 	File has moved from s2.wp.com/ to https://wordpress.com
+19:48:48	Warning: 	Moved Permanently for s0.wp.com/
+19:48:48	Warning: 	File has moved from s0.wp.com/ to https://wordpress.com
+19:48:49	Warning: 	Moved Permanently for https://sezaiakman75.wordpress.com/?page_id=6
+19:48:49	Warning: 	File has moved from https://sezaiakman75.wordpress.com/?page_id=6 to https://sezaiakman75.wordpress.com/program/
+19:48:49	Warning: 	Moved Permanently for https://sezaiakman75.wordpress.com/?page_id=7
+19:48:49	Warning: 	File has moved from https://sezaiakman75.wordpress.com/?page_id=7 to https://sezaiakman75.wordpress.com/venue/
+19:48:59	Warning: 	Moved Permanently for https://sezaiakman75.wordpress.com/?page_id=10
+19:48:59	Warning: 	File has moved from https://sezaiakman75.wordpress.com/?page_id=10 to https://sezaiakman75.wordpress.com/application/
+19:49:08	Warning: 	Moved Permanently for wordpress.com/robots.txt
+19:49:08	Warning: 	Redirected link is identical because of 'URL Hack' option: wordpress.com/robots.txt and https://wordpress.com/robots.txt
+19:49:08	Warning: 	Warning moved treated for wordpress.com/robots.txt (real one is https://wordpress.com/robots.txt)
+19:49:08	Warning: 	Moved Permanently for wordpress.com/
+19:49:08	Warning: 	Redirected link is identical because of 'URL Hack' option: wordpress.com/ and https://wordpress.com/
+19:49:08	Warning: 	File has moved from wordpress.com/ to https://wordpress.com/
+19:49:11	Warning: 	Note: due to https://public-api.wordpress.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+19:49:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s1.wp.com/wp-content/plugins/gutenberg-core/v19.1.0/build/interactivity/navigation.min.js?ver=19.1.0
+19:49:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://sezaiakman75.wordpress.com/xmlrpc.php?rsd
+19:49:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s1.wp.com/opensearch.xml
+19:49:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s0.wp.com/wp-content/plugins/gutenberg-core/v19.1.0/build/interactivity/index.min.js?ver=19.1.0
+19:49:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://0.gravatar.com/js/hovercards/hovercards.min.js?ver=202438491847802e138dfb100988b548968800330f40d96fb747ed3e03d4b9bc2d85e8
+19:49:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://sezaiakman75.wordpress.com/wp-content/js/bilmur.min.js?i=12&m=202438
+19:49:18	Warning: 	HTML file (2132 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=json&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fsponsors%2F&for=wpcom-auto-discovery
+19:49:18	Warning: 	HTML file (2253 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=xml&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fsponsors%2F&for=wpcom-auto-discovery
+19:49:19	Warning: 	HTML file (2374 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=json&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fgold-sponsor-qcri%2F&for=wpcom-auto-discovery
+19:49:19	Warning: 	HTML file (2568 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=xml&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fgold-sponsor-qcri%2F&for=wpcom-auto-discovery
+19:49:19	Warning: 	HTML file (2231 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=json&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fgold-google-deepmind%2F&for=wpcom-auto-discovery
+19:49:20	Warning: 	HTML file (2352 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=xml&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fgold-google-deepmind%2F&for=wpcom-auto-discovery
+19:49:20	Warning: 	HTML file (2152 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=json&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fregistration%2F&for=wpcom-auto-discovery
+19:49:20	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://sezaiakman75.wordpress.com/?page_id=6
+19:49:22	Warning: 	Moved Permanently for https://sezaiakman75.wordpress.com/?page_id=6
+19:49:22	Warning: 	File has moved from https://sezaiakman75.wordpress.com/?page_id=6 to https://sezaiakman75.wordpress.com/program/
+19:49:22	Warning: 	HTML file (2273 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=xml&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fregistration%2F&for=wpcom-auto-discovery
+19:49:22	Warning: 	HTML file (907 bytes) retransferred due to lack of cache: https://sezaiakman75.wordpress.com/about/feed/
+19:49:22	Warning: 	HTML file (2117 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=json&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fabout%2F&for=wpcom-auto-discovery
+19:49:23	Warning: 	HTML file (2238 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=xml&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fabout%2F&for=wpcom-auto-discovery
+19:49:23	Warning: 	HTML file (2107 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=json&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Ffaq%2F&for=wpcom-auto-discovery
+19:49:23	Warning: 	HTML file (2228 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=xml&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Ffaq%2F&for=wpcom-auto-discovery
+19:49:24	Warning: 	HTML file (2167 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=json&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fcode-of-conduct%2F&for=wpcom-auto-discovery
+19:49:24	Warning: 	HTML file (92241 bytes) retransferred due to lack of cache: https://sezaiakman75.wordpress.com/program/
+19:49:25	Warning: 	HTML file (2288 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=xml&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fcode-of-conduct%2F&for=wpcom-auto-discovery
+19:49:26	Warning: 	HTML file (2162 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=json&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fprivacy-policy%2F&for=wpcom-auto-discovery
+19:49:26	Warning: 	HTML file (2283 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=xml&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fprivacy-policy%2F&for=wpcom-auto-discovery
+19:49:27	Warning: 	HTML file (2127 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=json&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fprogram%2F&for=wpcom-auto-discovery
+19:49:27	Warning: 	HTML file (2248 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=xml&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fprogram%2F&for=wpcom-auto-discovery
+19:49:28	Warning: 	HTML file (2117 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=json&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fvenue%2F&for=wpcom-auto-discovery
+19:49:28	Warning: 	HTML file (2238 bytes) retransferred due to lack of cache: https://public-api.wordpress.com/oembed/?format=xml&url=https%3A%2F%2Fsezaiakman75.wordpress.com%2Fvenue%2F&for=wpcom-auto-discovery
+19:49:30	Warning: 	HTML file (610 bytes) retransferred due to lack of cache: wordpress.com/
+19:49:31	Warning: 	Moved Permanently for wordpress.com/
+19:49:31	Warning: 	Redirected link is identical because of 'URL Hack' option: wordpress.com/ and https://wordpress.com/
+19:49:31	Warning: 	File has moved from wordpress.com/ to https://wordpress.com/
+19:49:31	Warning: 	HTML file (91182 bytes) retransferred due to lack of cache: https://sezaiakman75.wordpress.com/application/
 
-HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 44 seconds : 105 links scanned, 117 files written (3627861 bytes overall), 85 files updated [1029762 bytes received at 2548 bytes/sec], 1591317 bytes transferred using HTTP compression in 83 files, ratio 25%, 1.6 requests per connection
-(No errors, 23 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 18 seconds : 83 links scanned, 101 files written (4626811 bytes overall) [2127832 bytes received at 27279 bytes/sec], 1605141 bytes transferred using HTTP compression in 69 files, ratio 25%, 1.4 requests per connection
+(No errors, 55 warnings, 0 messages)
